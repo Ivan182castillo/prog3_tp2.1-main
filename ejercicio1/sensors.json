@@ -1,0 +1,27 @@
+[
+    {
+      "id": "sensor-1",
+      "name": "Sensor 1",
+      "type": "temperature",
+      "value": 24.5,
+      "unit": "°C",
+      "updated_at": "2023-06-01T12:00:00"
+    },
+    {
+      "id": "sensor-2",
+      "name": "Sensor 2",
+      "type": "humidity",
+      "value": 50.2,
+      "unit": "%",
+      "updated_at": "2023-06-01T12:30:00"
+    },
+    {
+      "id": "sensor-3",
+      "name": "Sensor 3",
+      "type": "pressure",
+      "value": 1013,
+      "unit": "hPa",
+      "updated_at": "2023-06-01T13:00:00"
+    }
+  ]
+  
